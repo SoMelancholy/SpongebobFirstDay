@@ -1,4 +1,4 @@
-# Team project starter file
+# Edited by Sumit
 
 def greet(name):
     return f"Hello, {name}!"

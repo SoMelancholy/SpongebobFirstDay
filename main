@@ -1,0 +1,9 @@
+# Team project starter file
+
+def greet(name):
+    return f"Hello, {name}!"
+
+if __name__ == "__main__":
+    print(greet("team"))
+
+# Team comments (add yours on a new line below):
